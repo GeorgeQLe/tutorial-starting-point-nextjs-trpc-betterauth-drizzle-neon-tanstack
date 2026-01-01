@@ -1,8 +1,8 @@
-# G Can Build - Walkthrough Starter Template
+# G Can Build - Tutorial Starter Template
 
-Welcome to the G Can Build Walkthrough starter template! This repository serves as the foundation for the YouTube walkthrough series where we explore building and deploying modern web applications. Link to the YT Channel: https://www.youtube.com/@GeorgeLe
+Welcome to the G Can Build Tutorial starter template! This repository serves as the foundation for the YouTube tutorial series where we explore building and deploying modern web applications. Link to the YT Channel: https://www.youtube.com/@GeorgeLe
 
-## 🚀 Tech Stack
+## Tech Stack
 
 This project is built with a modern, production-ready tech stack:
 
@@ -18,7 +18,7 @@ This project is built with a modern, production-ready tech stack:
   - shadcn/ui component library
   - Various UI utilities (date-fns, recharts, etc.)
 
-## 🛠️ Getting Started
+## Getting Started
 
 1. Clone this repository:
 ```bash
@@ -56,7 +56,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 📚 Project Structure
+## Project Structure
 
 ```
 ├── src/
@@ -73,11 +73,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 └── package.json          # Project dependencies and scripts
 ```
 
-## 🎥 YouTube Walkthroughs
+## YouTube Tutorials
 
-This template is used in the G Can Build YouTube channel walkthroughs. Each walkthrough builds upon this foundation to create various web applications while teaching modern web development concepts.
+This template is used in the G Can Build YouTube channel tutorials. Each tutorial builds upon this foundation to create various web applications while teaching modern web development concepts.
 
-Follow along with our walkthroughs to learn:
+Follow along with our tutorials to learn:
 - Full-stack web development
 - Modern React patterns and best practices
 - Database design and management
@@ -86,7 +86,7 @@ Follow along with our walkthroughs to learn:
 - Deployment and DevOps
 - And much more!
 
-## 📦 Key Features
+## Key Features
 
 - **Modern React Development**: Next.js 15 with React 19 and Turbopack
 - **Type-Safe APIs**: End-to-end type safety with tRPC
@@ -97,14 +97,14 @@ Follow along with our walkthroughs to learn:
 - **State Management**: TanStack Query for server state
 - **Development Tools**: TypeScript, ESLint, and modern tooling configured
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to use this template for your own projects or contribute improvements. Issues and pull requests are welcome!
 
-## 📝 License
+## License
 
 This project is open source and available under the MIT license.
 
 ---
 
-Built with ❤️ by G Can Build
+Built with love by G Can Build
